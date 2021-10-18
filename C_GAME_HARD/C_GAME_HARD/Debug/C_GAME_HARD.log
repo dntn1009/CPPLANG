@@ -1,0 +1,4 @@
+﻿  C_GAME_HARD.cpp
+C:\Users\Administrator\source\repos\C_GAME_HARD\C_GAME_HARD\C_GAME_HARD.cpp(26,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Administrator\source\repos\C_GAME_HARD\C_GAME_HARD\C_GAME_HARD.cpp(26,23): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  C_GAME_HARD.vcxproj -> C:\Users\Administrator\source\repos\C_GAME_HARD\Debug\C_GAME_HARD.exe
