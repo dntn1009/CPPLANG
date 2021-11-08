@@ -1,0 +1,8 @@
+﻿  C_Pointer_BASIC.cpp
+C:\Users\Administrator\source\repos\C_Pointer_BASIC\C_Pointer_BASIC\C_Pointer_BASIC.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\Administrator\source\repos\C_Pointer_BASIC\C_Pointer_BASIC\C_Pointer_BASIC.cpp(16,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\Administrator\source\repos\C_Pointer_BASIC\C_Pointer_BASIC\C_Pointer_BASIC.cpp(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\Administrator\source\repos\C_Pointer_BASIC\C_Pointer_BASIC\C_Pointer_BASIC.cpp(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\Administrator\source\repos\C_Pointer_BASIC\C_Pointer_BASIC\C_Pointer_BASIC.cpp(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int **'입니다.
+C:\Users\Administrator\source\repos\C_Pointer_BASIC\C_Pointer_BASIC\C_Pointer_BASIC.cpp(25,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+  C_Pointer_BASIC.vcxproj -> C:\Users\Administrator\source\repos\C_Pointer_BASIC\Debug\C_Pointer_BASIC.exe
